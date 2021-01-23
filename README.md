@@ -1,3 +1,10 @@
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <title>GifMignon</title>
+    </head>
+
+  <body>
 <img class="project-pic" src="https://media.tenor.com/images/4fd49de4149a6d348e04f2465a3970af/tenor.gif" style="width: 150px;" />
 <img class="project-pic" src="https://www.cjoint.com/doc/19_07/IGlaldVKmeP_Omake-Gif-Anime---Kakegurui-XX---OP---Yumeko-Dances.gif" style="width: 150px;" />
 <img class="project-pic" src="https://pa1.narvii.com/7729/84599e0001a4e23f937b9520c34013d9389dd240r1-300-300_hq.gif" style="width: 150px;" />
@@ -11,3 +18,5 @@
     <a href="https://maevebestdev.github.io/Help/">Help</a>
     <p></p>
     <a href="https://maevebestdev.github.io/Contact_Us/">Contact us</a>
+    </body>
+</html>
