@@ -23,11 +23,11 @@
 <img class="project-pic" src="https://i.pinimg.com/originals/16/23/00/162300857841c32bd046374839b5d93f.gif" style="width: 200px;" />
 <img class="project-pic" src="https://steamuserimages-a.akamaihd.net/ugc/923674991649543667/33E1047AE5A04AD80F7648017B809A7D13FA71AC/" style="width: 200px;" />
     <p></p>
-    <button><a href="https://nsi-team.github.io/GIF_mignon/">Retour à l'acceuil</a></button>
+    <button><a href="https://maevebestdev.github.io/Main_Page/">Retour à l'acceuil</a></button>
 <p> </p>
-    <a href="https://nsi-team.github.io/About_us/">About us</a>
+    <a href="https://maevebestdev.github.io/About_Us/">About us</a>
     <p></p>
-    <a href="https://nsi-team.github.io/Help/">Help</a>
+    <a href="https://maevebestdev.github.io/Help/">Help</a>
     <p></p>
-    <a href="https://nsi-team.github.io/Contact_Us/">Contact us</a>
+    <a href="https://maevebestdev.github.io/Contact_Us/">Contact us</a>
 <script src="script.js"></script>
