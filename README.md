@@ -27,7 +27,7 @@
   <div class="box">
     <p class="click">CLICK TO ZOOM</p>
     <!--le lien vers la grande image qui sera affichée lors du clic sur la vignette carrée -->
-      <a href="https://media.discordapp.net/attachments/884718653348667412/885055275109851186/Screenshot_1.png">
+      <a href="https://media.discordapp.net/attachments/884718653348667412/885055275109851186/Screenshot_1.png" style="width: 100px;">
         <!--le lien vers la petite image carrée qui sert de vignette -->
       <img src="https://media.discordapp.net/attachments/884718653348667412/885055275109851186/Screenshot_1.png" style="width: 450px;"></a>
   </div>
