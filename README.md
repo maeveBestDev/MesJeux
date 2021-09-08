@@ -11,7 +11,7 @@
 </form>
       
       <h1>jeu test warhammer [nom à choisir]</h1>
-      <p><strong>[nom à choisir]</strong> est un FPS (First Person Shooter) basé sur l'univers de Warhammer 40, 000. En faisant ce jeu j'ai pour objectif de montré toutes mes capacités en termes de développement de jeux 3D.</p>
+      <p><strong>[nom à choisir]</strong> est un FPS (First Person Shooter) basé sur l'univers de <a href="https://en.wikipedia.org/wiki/Warhammer_40,000">Warhammer 40, 000</a>. En faisant ce jeu j'ai pour objectif de montré toutes mes capacités en termes de développement de jeux 3D.</p>
       <p> </p>
       <p>Dans <strong>[nom à choisir]</strong> plusieurs classes de personnages seront séléctionnable pour des campagnes solo différentes et original avec un dixènes d'armes différentes, d'ennemis varier et bien différent.</p>
       <p>  </p>
