@@ -11,10 +11,13 @@
 </form>
       
       <h1>jeu test warhammer [nom à choisir]</h1>
-      <p>[description du jeu]</p>
+      <p><strong>[nom à choisir]</strong> est un FPS (First Person Shooter) basé sur l'univers de Warhammer 40, 000. En faisant ce jeu j'ai pour objectif de montré toutes mes capacités en termes de développement de jeux 3D.</p>
+      <p> </p>
+      <p>Dans <strong>[nom à choisir]</strong> plusieurs classes de personnages seront séléctionnable pour des campagnes solo différentes et original avec un dixènes d'armes différentes, d'ennemis varier et bien différent.</p>
+      <p>  </p>
 <div class="conteneur-flexbox">
   <div class="box">
-    <p class="click">click to zoom</p>
+    <p class="click"></p>
     <!--le lien vers la grande image qui sera affichée lors du clic sur la vignette carrée -->
       <a href="https://media.discordapp.net/attachments/884718653348667412/885045909946241054/Screenshot_1.png?width=694&height=390" data-lightbox="image-1">
         <!--le lien vers la petite image carrée qui sert de vignette -->
