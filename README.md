@@ -15,6 +15,24 @@
       <p>[description du jeu]</p>
 <img class="project-pic" src="https://media.discordapp.net/attachments/884718653348667412/885045909946241054/Screenshot_1.png?width=694&height=390" style="width: 450px;" />
 
+<div class="conteneur-flexbox">
+  <div class="box">
+    <p class="click">CLICK TO ZOOM</p>
+    <!--le lien vers la grande image qui sera affichée lors du clic sur la vignette carrée -->
+      <a href="https://media.discordapp.net/attachments/884718653348667412/885045909946241054/Screenshot_1.png?width=694&height=390" data-lightbox="image-1">
+        <!--le lien vers la petite image carrée qui sert de vignette -->
+      <img src="https://media.discordapp.net/attachments/884718653348667412/885045909946241054/Screenshot_1.png?width=694&height=390"></a>
+  </div>
+  
+  <div class="box">
+    <p class="click">CLICK TO ZOOM</p>
+    <!--le lien vers la grande image qui sera affichée lors du clic sur la vignette carrée -->
+      <a href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/265602/Karl-Gerstner-full.jpg" data-lightbox="image-1" data-title="Karl Gerstner (2 July 1930 – 1 January 2017) was a Swiss designer, typographer, author and artist.">
+        <!--le lien vers la petite image carrée qui sert de vignette -->
+      <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/265602/Karl-Gerstner.jpg"></a>
+  </div>
+  
+</div>
     <p></p>
     <button><a href="https://maevebestdev.github.io/Main_Page/">Retour à l'acceuil</a></button>
 <p> </p>
