@@ -13,7 +13,7 @@
       
       <h1>jeu test warhammer [nom à choisir]</h1>
       <p>[description du jeu]</p>
-<img class="project-pic" src="https://media.discordapp.net/attachments/884718653348667412/885045909946241054/Screenshot_1.png?width=694&height=390" style="width: 150px;" />
+<img class="project-pic" src="https://media.discordapp.net/attachments/884718653348667412/885045909946241054/Screenshot_1.png?width=694&height=390" style="width: 300px;" />
 
     <p></p>
     <button><a href="https://maevebestdev.github.io/Main_Page/">Retour à l'acceuil</a></button>
