@@ -10,15 +10,15 @@
 <input type="text" id="input" name="input" placeholder="Rechercher sur le site…">
 <input type="button" id="bouton" value="Rechercher" onclick="controle()">
 </form>
-<p>Résultat de recherche pour "anime"</p>
-<img class="project-pic" src="https://media.tenor.com/images/4fd49de4149a6d348e04f2465a3970af/tenor.gif" style="width: 150px;" />
+      
+      <h1>jeu test warhammer [nom à choisir]</h1>
+      <p>[description du jeu]</p>
+<img class="project-pic" src="https://media.discordapp.net/attachments/884718653348667412/885045909946241054/Screenshot_1.png?width=694&height=390" style="width: 150px;" />
 
     <p></p>
     <button><a href="https://maevebestdev.github.io/Main_Page/">Retour à l'acceuil</a></button>
 <p> </p>
     <a href="https://maevebestdev.github.io/About_Us/">About us</a>
-    <p></p>
     <a href="https://maevebestdev.github.io/Help/">Help</a>
-    <p></p>
     <a href="https://maevebestdev.github.io/Contact_Us/">Contact us</a>
 <script src="script.js"></script>
