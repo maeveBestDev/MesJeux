@@ -25,7 +25,7 @@
       <img src="https://media.discordapp.net/attachments/884718653348667412/885045909946241054/Screenshot_1.png?width=694&height=390" style="width: 450px;"></a>
   </div>
  
-              <div class="image" style="background-image:url(https://media.discordapp.net/attachments/884718653348667412/885503216740085820/aaa.jpg)"></div>
+              <div class="image" style="background-image:url(https://media.discordapp.net/attachments/884718653348667412/885540768163442688/totalement_2.png?width=509&height=427)"></div>
     
 </div>
     <p></p>
