@@ -5,13 +5,13 @@ body {
 }
 h1
 {
-  color: pink;
+  color: black;
   text-align: center;
   font-family: Simplified;
 }
 p
 {
-  color: white;
+  color: black;
   text-align: center;
   font-family: Simplified;
 }
@@ -21,7 +21,7 @@ a
   font-family: Simplified;
 }
 
-IMG.displayed {
+img.displayed {
     display: block;
     margin-left: auto;
     margin-right: auto }
