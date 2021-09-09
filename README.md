@@ -25,7 +25,7 @@
       <img src="https://media.discordapp.net/attachments/884718653348667412/885045909946241054/Screenshot_1.png?width=694&height=390" style="width: 450px;"></a>
   </div>
  
-              <div class="image" style="background-image:url(https://media.discordapp.net/attachments/884718653348667412/885485954595450880/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background.jpg?width=860&height=427)"></div>
+              <div class="image" style="background-image:url(https://media.discordapp.net/attachments/884718653348667412/885503216740085820/aaa.jpg)"></div>
     
 </div>
     <p></p>
