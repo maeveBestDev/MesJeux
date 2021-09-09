@@ -1,5 +1,6 @@
 <html lang="fr">
     <head>
+        <link rel="stylesheet" type="text/css" href="style.css">
         <meta charset="utf-8">
         <title>GifMignon/About_us</title>
     </head>
