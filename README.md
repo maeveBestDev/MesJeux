@@ -15,7 +15,7 @@
       <h1>Test game Warhammer Guardsman's duty</h1>
       <p><strong>Guardsman's duty</strong> is an FPS (First Person Shooter) based on the universe of <a href="https://en.wikipedia.org/wiki/Warhammer_40,000">Warhammer 40, 000</a>. By making this game my goal is to show all my "skills" in 3D game development.</p>
       <p> </p>
-      <p>Dans <strong>Guardsman's duty</strong>several character classes will be selectable for different and original single player campaigns with many different weapons, various and multiple type of NPC (non player character).</p>
+      <p>In <strong>Guardsman's duty</strong> several character classes will be selectable for different and original single player campaigns with many different weapons, various and multiple type of NPC (non player character).</p>
       <p>  </p>
 <div class="conteneur-flexbox">
   <div class="box">
